@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+var test = require('./node/test')
+var num = process.argv[2];
+main(num);
+
+function main(num) {
+  test.distanceC(num, 1);
+  test.distanceJAVA(num);
+  test.distance(num, 1);
+}

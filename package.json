@@ -1,0 +1,13 @@
+{
+  "name": "cpp-nodejs-performance-test",
+  "private": true,
+  "version": "0.0.1",
+  "author" : 
+  { "name" : "欢乐木匠艾瑞克"
+  , "email" : "formateric@gmail.com"
+  , "url" : "http://mujiang.info/"
+  },
+  "dependencies" : 
+  { "java" : "*"
+  }
+}
