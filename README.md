@@ -34,7 +34,10 @@ test-c和test-c-random都编译自.cpp文件，使用注释切换代码
 
 我在本地的执行结果
 ===========
-![test](https://github.com/ericdum/cpp-nodejs-performance-test/blob/master/result/test.png)
-![test-random](https://github.com/ericdum/cpp-nodejs-performance-test/blob/master/result/test-random.png)
-![both](https://github.com/ericdum/cpp-nodejs-performance-test/blob/master/result/both.png)
-![node-c](https://github.com/ericdum/cpp-nodejs-performance-test/blob/master/result/node-c.png)
+![test](https://raw.githubusercontent.com/ericdum/cpp-nodejs-performance-test/master/result/test.png)
+
+![test-random](https://raw.githubusercontent.com/ericdum/cpp-nodejs-performance-test/master/result/test-random.png)
+
+![both](https://raw.githubusercontent.com/ericdum/cpp-nodejs-performance-test/master/result/both.png)
+
+![node-c](https://raw.githubusercontent.com/ericdum/cpp-nodejs-performance-test/master/result/node-c.png)
