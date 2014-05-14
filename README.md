@@ -25,3 +25,9 @@ NodeJS和C++写了同样的一个算法，计算的结果一样。c++直接g++�
 `````shell
 ./test-nc-in-node 10000 100
 `````
+
+文件说明
+============
+
+.node文件编译自.cc文件
+test-c和test-c-random都编译自.cpp文件，使用注释切换代码
