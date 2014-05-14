@@ -31,3 +31,10 @@ NodeJS和C++写了同样的一个算法，计算的结果一样。c++直接g++�
 
 .node文件编译自.cc文件
 test-c和test-c-random都编译自.cpp文件，使用注释切换代码
+
+我在本地的执行结果
+===========
+![test](https://github.com/ericdum/cpp-nodejs-performance-test/blob/master/result/test.png)
+![test-random](https://github.com/ericdum/cpp-nodejs-performance-test/blob/master/result/test-random.png)
+![both](https://github.com/ericdum/cpp-nodejs-performance-test/blob/master/result/both.png)
+![node-c](https://github.com/ericdum/cpp-nodejs-performance-test/blob/master/result/node-c.png)
